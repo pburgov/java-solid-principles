@@ -1,4 +1,4 @@
-package com.pburgov;
+package com.pburgov.liskov;
 
 public interface Bird {
 

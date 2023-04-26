@@ -1,6 +1,8 @@
 package com.pburgov;
 
 
+import com.pburgov.liskov.Duck;
+import com.pburgov.liskov.Penguin;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;

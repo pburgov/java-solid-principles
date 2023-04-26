@@ -1,4 +1,4 @@
-package com.pburgov;
+package com.pburgov.liskov;
 
 
 import org.apache.log4j.Logger;
